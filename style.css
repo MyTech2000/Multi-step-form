@@ -530,7 +530,7 @@ body {
 }
 
 .nav-btn.primary {
-    background: #1e1e5c;
+    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
     color: white;
     box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
 }
