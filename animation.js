@@ -186,6 +186,7 @@ function updateNavigation() {
     if (currentStep === totalSteps) {
         nextBtn.textContent = 'Confirm';
         nextBtn.innerHTML = 'Confirm';
+        nextBtn.style.background = 'linear-gradient(135deg, #3b82f6, #1d4ed8)';
     } else {
         nextBtn.innerHTML = 'Next Step';
     }
