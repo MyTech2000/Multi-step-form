@@ -29,7 +29,7 @@ body {
 
 .container {
     max-width: 56.25rem;
-    min-height: 100vh;
+    height: 100%;
     margin: 0 auto;
     background: white;
     border-radius: 1.25rem;
